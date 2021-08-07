@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="49.456707mm"
+   height="26.320116mm"
+   viewBox="0 0 49.456707 26.320116"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="92.999995"
+     inkscape:cy="26.249999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.77366668,-28.756725)">
+    <rect
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.262191;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2705"
+       width="22.894672"
+       height="2.6240988"
+       x="27.204605"
+       y="41.712044" />
+    <rect
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.256134;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2725"
+       width="21.741426"
+       height="2.6305079"
+       x="-54.094513"
+       y="37.382149"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.67283px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.216821"
+       x="0.32506061"
+       y="53.581211"
+       id="text32628"><tspan
+         sodipodi:role="line"
+         id="tspan32626"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.67283px;font-family:'Vegan Style Personal Use';-inkscape-font-specification:'Vegan Style Personal Use, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.216821;fill:#ffffff"
+         x="0.32506061"
+         y="53.581211">&amp; Care</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1.1599659"
+       y="40.120056"
+       id="text3093"><tspan
+         sodipodi:role="line"
+         id="tspan3091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Vegan Style Personal Use';-inkscape-font-specification:'Vegan Style Personal Use, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#ffffff"
+         x="1.1599659"
+         y="40.120056">Health</tspan></text>
+  </g>
+</svg>
